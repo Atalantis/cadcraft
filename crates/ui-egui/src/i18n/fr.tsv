@@ -67,6 +67,7 @@
 	Blend	Raccord lissé
 	Block	Bloc
 	Block Attribute Manager...	Gestionnaire des attributs de bloc...
+	Block Description...	Description de bloc...
 	Block Editor	Éditeur de blocs
 	Block Reference	Référence de bloc
 	Block...	Bloc...
@@ -144,6 +145,7 @@
 	Current selection	Sélection actuelle
 	Current: {color}	Actuel : {color}
 	Cut	Couper
+	Cut with Base Point	Couper avec point de base
 	Cyan	Cyan
 	Cylinder	Cylindre
 	DWG	DWG
@@ -451,6 +453,7 @@
 	N	N
 	Name	Nom
 	Name (A–Z)	Nom (A–Z)
+	Named Viewports...	Fenêtres nommées...
 	Nearest	Plus proche
 	New	Nouveau
 	New (metric)	Nouveau (métrique)
@@ -471,6 +474,7 @@
 	No selection	Aucune sélection
 	Node	Nœud
 	None	Aucun
+	Normal	Normal
 	Not available	Non disponible
 	Not available yet	Pas encore disponible
 	OK	OK
@@ -616,6 +620,7 @@
 	Rename Text Style	Renommer le style de texte
 	Rename...	Renommer...
 	Repeat {command}	Répéter {command}
+	Replace Block...	Remplacer le bloc...
 	Requires a point (x,y, @dx,dy or @d<a).	Nécessite un point (x,y, @dx,dy ou @d<a).
 	Reset Palettes	Réinitialiser les palettes
 	Restore	Restaurer
@@ -961,6 +966,7 @@
 	Viewport Properties	Propriétés de la fenêtre
 	Viewport {id}	Fenêtre {id}
 	Viewports	Fenêtres
+	Volume	Volume
 	W	O
 	WCS	SCG
 	White	Blanc
@@ -1008,6 +1014,9 @@
 	Not a number or distance: {text}	Ni un nombre ni une distance : {text}
 	Query Texts	Interroger les textes
 	Analyze Shapes	Analyser les formes
+	Check for Updates…	Rechercher des mises à jour…
+	CADCraft is up to date.	CADCraft est à jour.
+	Could not check for updates.	Impossible de rechercher les mises à jour.
 	3D Mouse	Souris 3D
 	3D Mouse Navigation	Navigation à la souris 3D
 	3D Mouse...	Souris 3D...
@@ -1235,7 +1244,6 @@
 	Version 2018	Version 2018
 	Viewport is locked	La fenêtre est verrouillée
 	Viewport scale	Échelle de la fenêtre
-	Volume	Volume
 	X	X
 	Y	Y
 	Zoom Dynamic	Zoom dynamique
@@ -1300,7 +1308,6 @@ menu	View	Vue
 	Load Application...	Charger une application...
 	Multiline text	Texte multiligne
 	New block	Nouveau bloc
-	Normal	Normal
 	Object grouping	Groupement d'objets
 	Object selection limit for display of grips	Limite de sélection d'objets pour l'affichage des poignées
 	Objects on locked layers	Objets sur des calques verrouillés
@@ -1437,3 +1444,7 @@ menu	View	Vue
 	US Survey Inch	Pouce US (arpentage)
 	US Survey Yard	Yard US (arpentage)
 	US Survey Mile	Mille US (arpentage)
+	Export Comparison	Exporter la comparaison
+	Save changes to block "{name}"?	Enregistrer les modifications du bloc "{name}" ?
+	Details	Détails
+	Insertion point	Point d'insertion
