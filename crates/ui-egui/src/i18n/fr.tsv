@@ -1028,22 +1028,22 @@
 	Annotative Object Scale	Échelle d'objet annotatif
 	Annotative Update	Mise à jour des annotatifs
 	Apply	Appliquer
-	Attach DWG...	Joindre un DWG...
+	Attach DWG...	Attacher un DWG...
 	Automatic save every	Enregistrement automatique toutes les
 	Automatic save file location	Emplacement des fichiers d'enregistrement automatique
-	Bind	Intégrer
-	Bind...	Intégrer...
+	Bind	Lier
+	Bind...	Lier...
 	Bring Above Objects	Placer au-dessus des objets
 	Bring Annotations to Front	Mettre les annotations au premier plan
 	Bulleted list	Liste à puces
-	CADCraft keeps these preferences, object snap modes and drafting toggles for your user account and restores them when it starts.	CADCraft conserve ces préférences, les modes d'accrochage aux objets et les bascules de dessin pour votre compte utilisateur, et les restaure à son démarrage.
+	CADCraft keeps these preferences, object snap modes and drafting toggles for your user account and restores them when it starts.	CADCraft conserve ces préférences, les modes d'accrochage aux objets et les aides au dessin pour votre compte utilisateur, et les restaure à son démarrage.
 	Calibrate	Étalonner
 	Calibrate 3D Mouse	Étalonner la souris 3D
 	Changed: {n}	Modifiés : {n}
 	Changes apply at once and are kept for next time.	Les modifications s'appliquent immédiatement et sont conservées pour la prochaine fois.
 	Clear Command History	Effacer l'historique des commandes
 	Clear History	Effacer l'historique
-	Clip	Découpage
+	Clip	Découper
 	Clip Viewport	Découper la fenêtre
 	Close All Other Drawings	Fermer tous les autres dessins
 	Close Array Editing	Fermer l'édition du réseau
@@ -1071,8 +1071,8 @@
 	Degrees of freedom: {n}	Degrés de liberté : {n}
 	Delete Current Scale	Supprimer l'échelle actuelle
 	Detach	Détacher
-	Dimension Break	Rupture de cotation
-	Dimension Edit	Modification de cotation
+	Dimension Break	Coupure de cotation
+	Dimension Edit	Modifier la cote
 	Dimension Objects Only	Objets de cotation uniquement
 	Display	Affichage
 	Drawing Recovery Manager...	Gestionnaire de récupération de dessins...
@@ -1111,12 +1111,12 @@
 	Isolate Objects	Isoler les objets
 	Isometric Plane	Plan isométrique
 	Isometric snap	Accrochage isométrique
-	Jogged	Coudée
-	Jogged Linear	Linéaire coudée
+	Jogged	Rayon raccourci
+	Jogged Linear	Linéaire raccourcie
 	Keep the system cursor visible over the drawing area	Garder le curseur système visible au-dessus de la zone de dessin
 	Largest array	Taille maximale d'un réseau
 	Layout paper	Papier de la présentation
-	Leaders Only	Repères uniquement
+	Leaders Only	Lignes de repère uniquement
 	Left device button: zoom extents. Right device button: calibrate.	Bouton gauche du périphérique : zoom étendu. Bouton droit du périphérique : étalonner.
 	Lines of Command History	Lignes de l'historique des commandes
 	Loaded	Chargé
@@ -1131,24 +1131,24 @@
 	Named Views...	Vues nommées...
 	New from Template...	Nouveau à partir d'un modèle...
 	Next Change	Modification suivante
-	No external references are attached.	Aucune référence externe n'est jointe.
+	No external references are attached.	Aucune référence externe n'est attachée.
 	No supported 3D mouse found	Aucune souris 3D prise en charge n'a été trouvée
 	Not Found	Introuvable
 	Not loaded	Non chargé
 	Numbered list	Liste numérotée
-	Object Snap Tracking Settings	Paramètres du suivi de l'accrochage aux objets
+	Object Snap Tracking Settings	Paramètres du repérage d'accrochage aux objets
 	Object snap aperture	Ouverture d'accrochage aux objets
 	Object snap marker size	Taille du marqueur d'accrochage aux objets
 	Oblique	Oblique
 	Only in this drawing: {n}	Uniquement dans ce dessin : {n}
 	Only in {name}: {n}	Uniquement dans {name} : {n}
 	Open	Ouvrir
-	Open Xref	Ouvrir la xref
+	Open Xref	Ouvrir la Xréf
 	Open and Save	Ouvrir et enregistrer
 	Options	Options
 	Options...	Options...
 	Over-constrained	Surcontraint
-	Overlay	Superposition
+	Overlay	Superposer
 	Pan sensitivity	Sensibilité du panoramique
 	Paste to Command Line	Coller dans la ligne de commande
 	Pickbox size	Taille de la boîte de sélection
@@ -1200,22 +1200,22 @@
 	Show in Tool Sets	Afficher dans les jeux d'outils
 	Snap Overrides	Remplacements d'accrochage
 	Snap type	Type d'accrochage
-	Snap, grid, polar tracking and Dynamic Input:	Accrochage, grille, recherche polaire et saisie dynamique :
+	Snap, grid, polar tracking and Dynamic Input:	Accrochage, grille, repérage polaire et saisie dynamique :
 	Solid Editing	Édition de solides
 	Spline Edit	Modifier la spline
 	Stretch Vertex	Étirer le sommet
 	Synchronize Multiple-scale Positions	Synchroniser les positions multi-échelles
 	Table Breaks	Fractionnement de tableau
 	Table Cell Style	Style de cellule de tableau
-	Temporary track point	Point de suivi temporaire
+	Temporary track point	Point de repérage temporaire
 	Text Objects Only	Objets texte uniquement
 	Thaw Layer	Dégeler le calque
 	The aperture is how near the cursor must come to a point for an object snap to find it.	L'ouverture est la proximité requise entre le curseur et un point pour qu'un accrochage aux objets le détecte.
 	Time-sensitive right-click: a quick click is Enter, holding opens the menu	Clic droit temporisé : un clic bref équivaut à Entrée, un appui prolongé ouvre le menu
 	To	Vers
 	Tolerance...	Tolérance...
-	Track orthogonally only	Suivi orthogonal uniquement
-	Track using all polar angle settings	Suivi selon tous les réglages d'angle polaire
+	Track orthogonally only	Repérage orthogonal uniquement
+	Track using all polar angle settings	Repérage selon tous les réglages d'angle polaire
 	Turn On Layer	Activer le calque
 	Turned off, a right-click while a command runs always opens the shortcut menu.	Désactivé, un clic droit pendant l'exécution d'une commande ouvre toujours le menu contextuel.
 	Units Conversion	Conversion d'unités
@@ -1249,10 +1249,10 @@ menu	Modify	Modifier
 menu	View	Vue
 	B	G
 	CADCraft	CADCraft
-	Align Multileaders	Aligner les repères multiples
+	Align Multileaders	Aligner les lignes de repère multiples
 	Collect	Regrouper
-	Collect Multileaders	Regrouper les repères multiples
-	Edit Multileader	Modifier le repère multiple
+	Collect Multileaders	Regrouper les lignes de repère multiples
+	Edit Multileader	Modifier la ligne de repère multiple
 	Italic	Italique
 	Underline	Souligné
 	Overline	Trait supérieur
@@ -1265,8 +1265,8 @@ menu	View	Vue
 	Block to create or edit	Bloc à créer ou à modifier
 	Bottom left	En bas à gauche
 	Bottom right	En bas à droite
-	Boundaries	Frontières
-	Boundaries picked: {n}	Frontières sélectionnées : {n}
+	Boundaries	Contours
+	Boundaries picked: {n}	Contours sélectionnés : {n}
 	Centered	Centré
 	Clear Recent Files	Effacer les fichiers récents
 	Click to set new origin	Cliquez pour définir une nouvelle origine
@@ -1278,7 +1278,7 @@ menu	View	Vue
 	Crossing selection color:	Couleur de la sélection par intersection :
 	Curved	Courbé
 	Custom	Personnalisé
-	Default to boundary extents	Utiliser par défaut l'étendue de la frontière
+	Default to boundary extents	Utiliser par défaut l'étendue du contour
 	Drag Dynamic Grip	Faire glisser une poignée dynamique
 	Dynamic Block Data	Données de bloc dynamique
 	Dynamic Block Grips	Poignées de bloc dynamique
@@ -1334,7 +1334,7 @@ menu	View	Vue
 	When a command is active	Quand une commande est active
 	When no command is active	Quand aucune commande n'est active
 	Window selection color:	Couleur de la sélection par fenêtre :
-	Xrefs	Xrefs
+	Xrefs	Xréfs
 	Arrow size	Taille des flèches
 	Dim scale overall	Échelle globale de cotation
 	Precision	Précision
@@ -1342,7 +1342,7 @@ menu	View	Vue
 	Convert Text to Mtext	Convertir le texte en texte multiligne
 	Explode Attributes to Text	Décomposer les attributs en texte
 	Express Tools	Outils express
-	Move/Copy/Rotate	Déplacer/Copier/Pivoter
+	Move/Copy/Rotate	Déplacer/Copier/Rotation
 	Type an alias name.	Saisissez un nom d'alias.
 	Choose the command the alias starts.	Choisissez la commande que l'alias lance.
 	{command} is an unknown command.	{command} n'est pas une commande connue.
@@ -1361,7 +1361,7 @@ menu	View	Vue
 	Customize	Personnaliser
 	Edit Command Aliases (PGP)...	Modifier les alias de commandes (PGP)...
 	Interface scale	Échelle de l'interface
-	Select boundaries to remove	Sélectionnez les frontières à supprimer
+	Select boundaries to remove	Sélectionnez les contours à supprimer
 	Island	Îlot
 	Select using two clicks only	Sélectionner en deux clics seulement
 	Define each corner of the selection window with a separate click.	Définissez chaque coin de la fenêtre de sélection par un clic distinct.
